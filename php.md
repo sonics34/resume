@@ -22,7 +22,7 @@
 
 ### P2P网站项目
 
-负责web前端开发及php开发  
+- 负责web前端开发及php开发  
 涉及div,css,js,php部分均一人独立完成
 
 
@@ -69,7 +69,7 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 - 服务器及软件相关：Linux/Nginx/Apache
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer
 - 云和开放平台：Weibo/QQ
-- The Best Teacher: Google/Stackoverflow/Github
+- The Best Teacher：Google/Stackoverflow/Github
 
 ---
 
