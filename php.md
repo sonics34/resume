@@ -22,7 +22,7 @@
 
 ### P2P网站项目
 
-负责web前端开发及php开发
+负责web前端开发及php开发  
 涉及div,css,js,php部分均一人独立完成
 
 
