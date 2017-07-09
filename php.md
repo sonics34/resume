@@ -43,7 +43,8 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 
 ### 建站项目 
 
-负责利用CMS及Discuz等程序进行企业/门户/旅游网站建设，二次开发等  
+负责利用CMS及Discuz等程序进行企业/门户/旅游网站建设，二次开发等 
+<a href="http://36qh.com/obj.html" target="_blank">部分可展示项目</a>  
 其它工作如：新闻类cms程序开发、IE兼容性处理、Nginx环境下代码自动化部署等
 
 
@@ -59,16 +60,11 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 
 ---
 
-# 部分建站项目
+# 技术描述
 
-http://36qh.com/obj.html
-
-
-## 技术描述
-
-1,Google is the best teacher  
-2,Stackoverflow  
-3,Github
+- Google is the best teacher  
+- Stackoverflow  
+- Github
 
 # 技能清单
 
