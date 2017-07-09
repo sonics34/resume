@@ -33,7 +33,7 @@
 难点在于第三方资金托管平台与接口层数据交互，后采用Cache处理资金返回，达到良好用户交互
 
 
-### 其他项目
+### 其它
 
 Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据等  
 期间自学Vuejs、Requirejs等，以备不时之需
@@ -43,8 +43,7 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 
 ### 建站项目 
 
-负责利用CMS及Discuz等程序进行企业/门户/旅游网站建设，二次开发等 
-<a href="http://36qh.com/obj.html" target="_blank">部分可展示项目</a>  
+负责利用CMS及Discuz等程序进行企业/门户/旅游网站建设，二次开发等  
 其它工作如：新闻类cms程序开发、IE兼容性处理、Nginx环境下代码自动化部署等
 
 
@@ -54,15 +53,15 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 期间重点在于SEO优化、研究用户体验，以达到提升网站流量目的
 
 
-### 其他项目
+### 其它
 
 独立开发并运营个人商业网站，其排名进入Aleax全球1000名以内，稳定百度权6，日IP达1万+，日PV达10万+，后被福建省某商业公司收购
 
 ---
 
-# 技术描述
+# The Best Teacher  
 
-- Google is the best teacher  
+- Google
 - Stackoverflow  
 - Github
 
