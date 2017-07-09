@@ -59,12 +59,6 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 
 ---
 
-# The Best Teacher  
-
-- Google
-- Stackoverflow  
-- Github
-
 # 技能清单
 
 - Web开发：PHP/Div+Css/jQuery
@@ -75,6 +69,7 @@ Linux服务器基础运维、网站模板二次开发、Mysql统计需求数据�
 - 服务器及软件相关：Linux/Nginx/Apache
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer
 - 云和开放平台：Weibo/QQ
+- The Best Teacher: Google/Stackoverflow/Github
 
 ---
 
