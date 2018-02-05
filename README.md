@@ -1,3 +1,3 @@
-# 简历
+# 个人简历
 
-- [PHP](php.md)
+- [PHP/Web开发](php.md)

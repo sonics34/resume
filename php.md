@@ -8,10 +8,10 @@
 # 个人信息
 
  - 王先生/男/1990 
- - 本科/汉口学院 
+ - 本科 
  - 工作年限：2012至今
  - 期望职位：PHP程序员
- - 期望薪资：6k
+ - 期望薪资：6k+
  - 期望城市：襄阳
 
 ---
@@ -22,9 +22,9 @@
 
 ### P2P网站项目
 
-- 负责web前端开发及php开发  
-涉及div,css,js,php部分均一人独立完成  
-其它工作如：Linux基础运维、模板二次开发、Mysql统计需求数据，优化高并发等
+- Web前端及PHP程序开发  
+主要负责：div+css、js、php部分均独立完成  
+其它工作：Linux服务器基础运维、模板二次开发、Mysql统计需求数据，优化高并发等
 
 
 ### API项目 
@@ -35,7 +35,7 @@
 
 ### 其它
 
-- 期间自学Vuejs、Requirejs等
+- 期间自学Vuejs、Node.js等
 
  
 ## 襄阳某网络科技公司 （ 2012年8月 ~ 2015年1月 ）
@@ -52,22 +52,21 @@
 期间重点在于SEO优化、研究用户体验，以达到提升网站流量目的
 
 
-### 其它
+### 成果
 
-- 独立开发并运营个人商业网站，其排名进入Aleax全球1000名以内，稳定百度权6，日IP达1万+，日PV达10万+，后被福建省某网络公司收购
+- 独立开发并运营个人商业网站，其排名进入Aleax全球1000名以内，稳定百度权6，日IP达1万+，日PV达10万+，后被某商业公司收购
 
 ---
 
 # 熟练技能
 
 - Web开发：PHP/Div+Css/jQuery
-- Web框架：Laravel
+- PHP框架：Laravel
 - 前端框架：Bootstrap/Vuejs
 - 前端工具：LeSS
 - 数据库相关：MySQL/PDO/Redis
 - 服务器及软件相关：Linux/Nginx/Apache
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer
-- 云和开放平台：Weibo/QQ
 - The Best Teacher：Google/Stackoverflow/Github
 
 ---
